@@ -2,7 +2,9 @@
 
 ## Website
 
-![screenshot]()
+https://spody10.github.io/workday-scheduler/
+
+![Screenshot](/image/screencapture-workday-scheduler.png)
 
 ## Purpose
 
